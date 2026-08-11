@@ -38,7 +38,9 @@
 └──────────────────────────────────────────┘
 ```
 
-> 💡 **Tip:** Add a screenshot or GIF here to show the project in action.
+<p align="center">
+  <img src="images/image1.png" width="700">
+</p>
 
 ---
 
